@@ -1,0 +1,12 @@
+C:\Users\YOGA\RiderProjects\AdoNetModuleConsole\AdoNetLib\bin\Debug\net5.0\AdoNetLib.deps.json
+C:\Users\YOGA\RiderProjects\AdoNetModuleConsole\AdoNetLib\bin\Debug\net5.0\AdoNetLib.dll
+C:\Users\YOGA\RiderProjects\AdoNetModuleConsole\AdoNetLib\bin\Debug\net5.0\ref\AdoNetLib.dll
+C:\Users\YOGA\RiderProjects\AdoNetModuleConsole\AdoNetLib\bin\Debug\net5.0\AdoNetLib.pdb
+C:\Users\YOGA\RiderProjects\AdoNetModuleConsole\AdoNetLib\obj\Debug\net5.0\AdoNetLib.csproj.AssemblyReference.cache
+C:\Users\YOGA\RiderProjects\AdoNetModuleConsole\AdoNetLib\obj\Debug\net5.0\AdoNetLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOGA\RiderProjects\AdoNetModuleConsole\AdoNetLib\obj\Debug\net5.0\AdoNetLib.AssemblyInfoInputs.cache
+C:\Users\YOGA\RiderProjects\AdoNetModuleConsole\AdoNetLib\obj\Debug\net5.0\AdoNetLib.AssemblyInfo.cs
+C:\Users\YOGA\RiderProjects\AdoNetModuleConsole\AdoNetLib\obj\Debug\net5.0\AdoNetLib.csproj.CoreCompileInputs.cache
+C:\Users\YOGA\RiderProjects\AdoNetModuleConsole\AdoNetLib\obj\Debug\net5.0\AdoNetLib.dll
+C:\Users\YOGA\RiderProjects\AdoNetModuleConsole\AdoNetLib\obj\Debug\net5.0\ref\AdoNetLib.dll
+C:\Users\YOGA\RiderProjects\AdoNetModuleConsole\AdoNetLib\obj\Debug\net5.0\AdoNetLib.pdb
